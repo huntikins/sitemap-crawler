@@ -1,0 +1,41 @@
+{
+  "name": "screenshot-crawler",
+  "version": "1.0.0",
+  "description": "Screenshot crawler application with client and server",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --parallel -r dev",
+    "dev:client": "pnpm --filter screenshot-crawler-client dev",
+    "dev:server": "pnpm --filter screenshot-crawler-server dev",
+    "build": "pnpm -r build",
+    "build:client": "pnpm --filter screenshot-crawler-client build",
+    "build:server": "pnpm --filter screenshot-crawler-server build",
+    "start": "pnpm --filter screenshot-crawler-server start",
+    "start:client": "pnpm --filter screenshot-crawler-client preview",
+    "start:server": "pnpm --filter screenshot-crawler-server start",
+    "clean": "pnpm -r exec rm -rf node_modules dist",
+    "lint": "pnpm -r lint",
+    "lint:fix": "pnpm -r lint:fix",
+    "format": "prettier --write \"**/*.{ts,js,json,css,md}\"",
+    "format:check": "prettier --check \"**/*.{ts,js,json,css,md}\"",
+    "stylelint": "stylelint \"**/*.css\"",
+    "stylelint:fix": "stylelint \"**/*.css\" --fix"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.46.3",
+    "@typescript-eslint/parser": "^8.46.3",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "^2.32.0",
+    "prettier": "^3.6.2",
+    "stylelint": "^16.25.0",
+    "stylelint-config-standard": "^39.0.1",
+    "stylelint-config-tailwindcss": "^1.0.0",
+    "typescript-eslint": "^8.46.3"
+  }
+}

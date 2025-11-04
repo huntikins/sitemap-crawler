@@ -1,0 +1,694 @@
+[2025-11-04T20:12:09.984Z] [INFO] Server running on http://localhost:8080
+[2025-11-04T20:18:01.656Z] [INFO] Shutting down server...
+[2025-11-04T20:18:04.050Z] [INFO] Server running on http://localhost:8080
+[2025-11-04T20:18:46.008Z] [INFO] Shutting down server...
+[2025-11-04T20:37:03.994Z] [INFO] Server running on http://localhost:8080
+[2025-11-04T20:40:44.712Z] [INFO] Shutting down server...
+[2025-11-04T20:44:44.648Z] [INFO] Server running on http://localhost:8080
+[2025-11-04T20:45:16.663Z] [INFO] Shutting down server...
+[2025-11-04T20:48:31.439Z] [INFO] Server running on http://localhost:5173
+[2025-11-04T20:48:36.452Z] [INFO] Fetching sitemap from: https://huntertrammell.dev/sitemap.xml
+[2025-11-04T20:48:37.811Z] [INFO] Parsed 30 URLs from sitemap
+[2025-11-04T20:48:37.812Z] [INFO] Added 30 URLs to queue
+[2025-11-04T20:48:37.812Z] [INFO] Initializing Puppeteer browser
+[2025-11-04T20:48:39.770Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/
+[2025-11-04T20:48:39.773Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T20:48:39.774Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T20:48:44.087Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_6-wonderful-free-asset-resources-for-developing-your-next-web-application_1762289319773_xpa1pa9.png
+[2025-11-04T20:48:44.090Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T20:48:44.240Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_index_1762289319770_3mbbpdt.png
+[2025-11-04T20:48:44.242Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/
+[2025-11-04T20:48:44.291Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T20:48:44.291Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T20:48:44.543Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-brief-introduction-to-web-components_1762289319774_99063tg.png
+[2025-11-04T20:48:44.546Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T20:48:44.792Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T20:48:48.681Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-to-understanding-the-basics-of-typescript_1762289324792_erzj7u9.png
+[2025-11-04T20:48:48.683Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T20:48:48.800Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T20:48:49.052Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-how-to-strategically-use-custom-properties-in-css_1762289324291_08et27d.png
+[2025-11-04T20:48:49.054Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T20:48:49.284Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-handling-custom-events-in-javascript_1762289324291_kxf24zx.png
+[2025-11-04T20:48:49.286Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T20:48:49.302Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T20:48:49.302Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T20:48:52.445Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-look-at-vuejs-directives-and-how-to-use-them_1762289328800_vt6d8uk.png
+[2025-11-04T20:48:52.447Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T20:48:52.810Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T20:48:52.898Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project_1762289329302_d09k1mk.png
+[2025-11-04T20:48:52.903Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T20:48:53.311Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T20:48:53.493Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_building-production-apps-with-nextjs_1762289329302_ivti5la.png
+[2025-11-04T20:48:53.495Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T20:48:53.811Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T20:48:56.772Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_creating-a-contact-form-using-nextjs-and-supabase_1762289332809_eestw5d.png
+[2025-11-04T20:48:56.774Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T20:48:56.817Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T20:48:57.278Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_getting-started-with-serverless-functions-on-netlify_1762289333310_zfrafm7.png
+[2025-11-04T20:48:57.280Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T20:48:57.319Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T20:48:57.977Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-blog-using-markdown-and-nextjs_1762289333811_83o99xn.png
+[2025-11-04T20:48:57.981Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T20:48:58.322Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T20:49:01.257Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-alert-component-in-react_1762289336817_pyr3up7.png
+[2025-11-04T20:49:01.259Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T20:49:01.329Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T20:49:01.969Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-modal-component-in-react_1762289337318_6c5m1b8.png
+[2025-11-04T20:49:01.971Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T20:49:02.331Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T20:49:03.447Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-portfolio-site-using-alpine-and-tailwind_1762289338321_1i46fdp.png
+[2025-11-04T20:49:03.451Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T20:49:03.833Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T20:49:06.101Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-post-articles-to-hashnode-from-cms_1762289341329_vq0zhlc.png
+[2025-11-04T20:49:06.102Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T20:49:06.339Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T20:49:06.504Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker_1762289342331_kwxooqm.png
+[2025-11-04T20:49:06.506Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T20:49:06.841Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T20:49:08.099Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements_1762289343833_97y8goi.png
+[2025-11-04T20:49:08.102Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T20:49:08.344Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T20:49:09.861Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-tutoring-can-boost-your-web-development-knowledge_1762289346339_pyjb4gq.png
+[2025-11-04T20:49:09.863Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T20:49:10.350Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T20:49:11.032Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_intersection-observer-lazy-load_1762289346841_tf0vu5o.png
+[2025-11-04T20:49:11.035Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T20:49:11.353Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T20:49:12.970Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_javascript-zen_1762289348344_0hwh91d.png
+[2025-11-04T20:49:12.972Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T20:49:13.359Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T20:49:14.319Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them_1762289350349_61f606b.png
+[2025-11-04T20:49:14.321Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T20:49:14.363Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T20:49:16.102Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_react-essentials-components-props-state-guide_1762289351353_9o3fb0x.png
+[2025-11-04T20:49:16.104Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T20:49:16.365Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T20:49:16.716Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_that-one-time-i-grew-up-and-became-a-developer_1762289353359_kwzh20d.png
+[2025-11-04T20:49:16.718Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T20:49:16.867Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T20:49:18.716Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-3-principles-of-successfully-starting-and-completing-a-web-project_1762289354363_qo5v6li.png
+[2025-11-04T20:49:18.718Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T20:49:18.870Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T20:49:19.873Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-beginners-guide-to-publishing-your-first-package-on-npm_1762289356365_ddnoqu5.png
+[2025-11-04T20:49:19.875Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T20:49:20.373Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T20:49:20.448Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-difference-between-call-bind-and-apply_1762289356866_6bdlq4t.png
+[2025-11-04T20:49:20.450Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T20:49:20.873Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T20:49:22.899Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_understanding-how-to-work-with-the-publish-subscribe-model-in-javascript_1762289358870_8kw8zef.png
+[2025-11-04T20:49:22.901Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T20:49:24.197Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_why-you-should-use-codewell-for-your-next-portfolio_1762289360873_hcmxrvw.png
+[2025-11-04T20:49:24.200Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T20:49:25.205Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_using-css-variables-to-create-interactive-styling_1762289360372_umexzk9.png
+[2025-11-04T20:49:25.207Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T20:49:25.384Z] [INFO] All URLs processed
+[2025-11-04T20:49:33.178Z] [INFO] ZIP file created: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots-mhl1k4acvlys9qa36vr.zip
+[2025-11-04T20:49:33.320Z] [DEBUG] Cleaned up ZIP file: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots-mhl1k4acvlys9qa36vr.zip
+[2025-11-04T20:49:33.320Z] [INFO] ZIP downloaded and cleaned up for job mhl1k4acvlys9qa36vr
+[2025-11-04T20:50:35.861Z] [INFO] Shutting down server...
+[2025-11-04T21:18:20.499Z] [INFO] Server running on http://localhost:5173
+[2025-11-04T21:18:41.619Z] [INFO] Shutting down server...
+[2025-11-04T21:28:33.983Z] [INFO] Server running on http://localhost:5173
+[2025-11-04T21:28:39.165Z] [INFO] Fetching sitemap from: https://huntertrammell.dev/sitemap.xml
+[2025-11-04T21:28:40.324Z] [INFO] Parsed 30 URLs from sitemap
+[2025-11-04T21:28:40.325Z] [INFO] Added 30 URLs to queue
+[2025-11-04T21:28:40.325Z] [INFO] Initializing Puppeteer browser
+[2025-11-04T21:28:41.252Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/
+[2025-11-04T21:28:41.254Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:28:41.255Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:28:45.176Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_index_1762291721252_py37xvt.png
+[2025-11-04T21:28:45.179Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/
+[2025-11-04T21:28:45.271Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:28:45.476Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-brief-introduction-to-web-components_1762291721255_7o56iri.png
+[2025-11-04T21:28:45.479Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:28:45.773Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:28:45.927Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_6-wonderful-free-asset-resources-for-developing-your-next-web-application_1762291721254_tbbd1sz.png
+[2025-11-04T21:28:45.929Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:28:46.274Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:28:49.483Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-how-to-strategically-use-custom-properties-in-css_1762291725773_cyngyr0.png
+[2025-11-04T21:28:49.485Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:28:49.781Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:28:49.788Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-handling-custom-events-in-javascript_1762291725271_bfrznew.png
+[2025-11-04T21:28:49.790Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:28:50.283Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:28:50.757Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-to-understanding-the-basics-of-typescript_1762291726274_h68ddq8.png
+[2025-11-04T21:28:50.758Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:28:50.786Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:28:53.177Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-look-at-vuejs-directives-and-how-to-use-them_1762291729781_4j36zuz.png
+[2025-11-04T21:28:53.179Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:28:53.295Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:28:53.808Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project_1762291730283_vwur99l.png
+[2025-11-04T21:28:53.810Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:28:54.299Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:28:54.603Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_building-production-apps-with-nextjs_1762291730786_1spu5sa.png
+[2025-11-04T21:28:54.606Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:28:54.800Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:28:57.199Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_creating-a-contact-form-using-nextjs-and-supabase_1762291733294_3i06kt2.png
+[2025-11-04T21:28:57.202Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:28:57.305Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:28:58.189Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-blog-using-markdown-and-nextjs_1762291734800_3s0i9zz.png
+[2025-11-04T21:28:58.191Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:28:58.306Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:28:58.695Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_getting-started-with-serverless-functions-on-netlify_1762291734299_av6lh1o.png
+[2025-11-04T21:28:58.697Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:28:58.807Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:29:01.123Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-alert-component-in-react_1762291737305_qszmj91.png
+[2025-11-04T21:29:01.125Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:29:01.315Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:29:02.569Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-modal-component-in-react_1762291738306_0p3aehd.png
+[2025-11-04T21:29:02.571Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:29:02.819Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:29:03.775Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-portfolio-site-using-alpine-and-tailwind_1762291738807_p3ujl5v.png
+[2025-11-04T21:29:03.778Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:29:03.823Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:29:05.156Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-post-articles-to-hashnode-from-cms_1762291741314_mbxnysr.png
+[2025-11-04T21:29:05.158Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:29:05.327Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:29:06.194Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker_1762291742819_gc30vz3.png
+[2025-11-04T21:29:06.196Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:29:06.329Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:29:07.675Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements_1762291743823_g7acj09.png
+[2025-11-04T21:29:07.678Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:29:07.834Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:29:08.904Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-tutoring-can-boost-your-web-development-knowledge_1762291745326_yh80bhv.png
+[2025-11-04T21:29:08.906Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:29:09.337Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:29:10.047Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_intersection-observer-lazy-load_1762291746329_51rkf6p.png
+[2025-11-04T21:29:10.049Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:29:10.341Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:29:11.471Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_javascript-zen_1762291747834_v33emdk.png
+[2025-11-04T21:29:11.473Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:29:11.847Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:29:12.863Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them_1762291749337_xwx1v2e.png
+[2025-11-04T21:29:12.866Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:29:13.352Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:29:14.989Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_react-essentials-components-props-state-guide_1762291750341_ayhwbo1.png
+[2025-11-04T21:29:14.991Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:29:15.357Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:29:15.389Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_that-one-time-i-grew-up-and-became-a-developer_1762291751846_9wakstm.png
+[2025-11-04T21:29:15.391Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:29:15.858Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:29:17.324Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-3-principles-of-successfully-starting-and-completing-a-web-project_1762291753351_xb9zzyx.png
+[2025-11-04T21:29:17.326Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:29:17.363Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:29:18.632Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-beginners-guide-to-publishing-your-first-package-on-npm_1762291755357_4vfkqoo.png
+[2025-11-04T21:29:18.634Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:29:18.866Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:29:18.998Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-difference-between-call-bind-and-apply_1762291755858_94f96ec.png
+[2025-11-04T21:29:19.000Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:29:19.366Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:29:21.002Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_understanding-how-to-work-with-the-publish-subscribe-model-in-javascript_1762291757363_q68q9s3.png
+[2025-11-04T21:29:21.005Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:29:22.010Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_using-css-variables-to-create-interactive-styling_1762291758866_ss6auka.png
+[2025-11-04T21:29:22.012Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:29:22.836Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_why-you-should-use-codewell-for-your-next-portfolio_1762291759366_932d4g2.png
+[2025-11-04T21:29:22.838Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:29:22.874Z] [INFO] All URLs processed
+[2025-11-04T21:30:15.552Z] [INFO] Shutting down server...
+[2025-11-04T21:30:27.808Z] [INFO] Server running on http://localhost:5173
+[2025-11-04T21:32:13.502Z] [INFO] Fetching sitemap from: https://huntertrammell.dev/sitemap.xml
+[2025-11-04T21:32:13.783Z] [INFO] Parsed 30 URLs from sitemap
+[2025-11-04T21:32:13.784Z] [INFO] Added 30 URLs to queue
+[2025-11-04T21:32:13.784Z] [INFO] Initializing Puppeteer browser
+[2025-11-04T21:32:14.621Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/
+[2025-11-04T21:32:14.624Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:32:14.624Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:32:18.573Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_index_1762291934621_dixv8m0.png
+[2025-11-04T21:32:18.577Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/
+[2025-11-04T21:32:18.637Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:32:18.877Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-brief-introduction-to-web-components_1762291934624_6yjnaw2.png
+[2025-11-04T21:32:18.879Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:32:19.138Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:32:19.328Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_6-wonderful-free-asset-resources-for-developing-your-next-web-application_1762291934624_1qgo8kz.png
+[2025-11-04T21:32:19.331Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:32:19.640Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:32:22.897Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-how-to-strategically-use-custom-properties-in-css_1762291939138_ryfp8fw.png
+[2025-11-04T21:32:22.899Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:32:23.148Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:32:23.316Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-to-understanding-the-basics-of-typescript_1762291939639_1qnpu9k.png
+[2025-11-04T21:32:23.318Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:32:23.575Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-handling-custom-events-in-javascript_1762291938637_jes364b.png
+[2025-11-04T21:32:23.577Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:32:23.650Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:32:23.650Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:32:26.610Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-look-at-vuejs-directives-and-how-to-use-them_1762291943148_75wmzek.png
+[2025-11-04T21:32:26.612Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:32:26.656Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:32:27.049Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project_1762291943650_x5fmucy.png
+[2025-11-04T21:32:27.051Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:32:27.157Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:32:27.631Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_building-production-apps-with-nextjs_1762291943650_o8jvbpr.png
+[2025-11-04T21:32:27.633Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:32:27.658Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:32:30.929Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_creating-a-contact-form-using-nextjs-and-supabase_1762291946656_7brfn0b.png
+[2025-11-04T21:32:30.931Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:32:31.167Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:32:31.611Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-blog-using-markdown-and-nextjs_1762291947658_g5r1hbj.png
+[2025-11-04T21:32:31.614Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:32:31.668Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:32:32.239Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_getting-started-with-serverless-functions-on-netlify_1762291947157_vbhvjrq.png
+[2025-11-04T21:32:32.241Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:32:32.670Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:32:35.577Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-modal-component-in-react_1762291951668_4yphop0.png
+[2025-11-04T21:32:35.579Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:32:35.676Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:32:36.002Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-alert-component-in-react_1762291951167_06xqobh.png
+[2025-11-04T21:32:36.004Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:32:36.176Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:32:37.445Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-portfolio-site-using-alpine-and-tailwind_1762291952670_or7z1d3.png
+[2025-11-04T21:32:37.450Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:32:37.680Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:32:39.854Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker_1762291956176_ac85e29.png
+[2025-11-04T21:32:39.856Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:32:40.186Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:32:40.411Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-post-articles-to-hashnode-from-cms_1762291955676_ibpo4uj.png
+[2025-11-04T21:32:40.414Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:32:40.688Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:32:41.394Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements_1762291957679_xqgffly.png
+[2025-11-04T21:32:41.396Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:32:41.691Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:32:43.903Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-tutoring-can-boost-your-web-development-knowledge_1762291960186_7pfi1he.png
+[2025-11-04T21:32:43.905Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:32:44.197Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:32:44.284Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_intersection-observer-lazy-load_1762291960688_it4bfro.png
+[2025-11-04T21:32:44.286Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:32:44.699Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:32:45.169Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_javascript-zen_1762291961691_5xjo9lj.png
+[2025-11-04T21:32:45.171Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:32:45.201Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:32:47.773Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them_1762291964197_vt53ch8.png
+[2025-11-04T21:32:47.775Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:32:48.208Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:32:48.749Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_that-one-time-i-grew-up-and-became-a-developer_1762291965201_ifi0v4c.png
+[2025-11-04T21:32:48.751Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:32:49.210Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:32:49.281Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_react-essentials-components-props-state-guide_1762291964698_euxkup5.png
+[2025-11-04T21:32:49.283Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:32:49.711Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:32:51.746Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-3-principles-of-successfully-starting-and-completing-a-web-project_1762291968207_yov7bqf.png
+[2025-11-04T21:32:51.748Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:32:52.217Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:32:52.440Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-beginners-guide-to-publishing-your-first-package-on-npm_1762291969210_bm0ov00.png
+[2025-11-04T21:32:52.443Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:32:52.719Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:32:52.861Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-difference-between-call-bind-and-apply_1762291969711_0nfxzqc.png
+[2025-11-04T21:32:52.863Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:32:53.220Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:32:56.012Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_understanding-how-to-work-with-the-publish-subscribe-model-in-javascript_1762291972217_6apuank.png
+[2025-11-04T21:32:56.014Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:32:56.683Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_why-you-should-use-codewell-for-your-next-portfolio_1762291973219_44jwyvv.png
+[2025-11-04T21:32:56.685Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:32:57.213Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_using-css-variables-to-create-interactive-styling_1762291972719_6lgnie5.png
+[2025-11-04T21:32:57.215Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:32:57.230Z] [INFO] All URLs processed
+[2025-11-04T21:36:22.489Z] [INFO] Shutting down server...
+[2025-11-04T21:36:39.190Z] [INFO] Server running on http://localhost:5173
+[2025-11-04T21:36:44.882Z] [INFO] Fetching sitemap from: https://huntertrammell.dev/sitemap.xml
+[2025-11-04T21:36:45.103Z] [INFO] Parsed 30 URLs from sitemap
+[2025-11-04T21:36:45.104Z] [INFO] Added 30 URLs to queue
+[2025-11-04T21:36:45.104Z] [INFO] Initializing Puppeteer browser
+[2025-11-04T21:36:45.874Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/
+[2025-11-04T21:36:45.877Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:36:45.882Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:36:49.839Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_index_1762292205874_x3ipc8n.png
+[2025-11-04T21:36:49.842Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/
+[2025-11-04T21:36:49.892Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:36:50.133Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-brief-introduction-to-web-components_1762292205881_b4sfvgg.png
+[2025-11-04T21:36:50.135Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:36:50.394Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:36:50.600Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_6-wonderful-free-asset-resources-for-developing-your-next-web-application_1762292205877_izub7lw.png
+[2025-11-04T21:36:50.602Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:36:50.895Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:36:54.206Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-how-to-strategically-use-custom-properties-in-css_1762292210393_8ednkek.png
+[2025-11-04T21:36:54.208Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:36:54.402Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:36:54.443Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-handling-custom-events-in-javascript_1762292209892_ojo35x5.png
+[2025-11-04T21:36:54.446Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:36:54.904Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:36:55.379Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-to-understanding-the-basics-of-typescript_1762292210895_obw4ylo.png
+[2025-11-04T21:36:55.381Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:36:55.406Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:36:57.856Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-look-at-vuejs-directives-and-how-to-use-them_1762292214402_1bb12nw.png
+[2025-11-04T21:36:57.858Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:36:57.911Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:36:58.367Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project_1762292214903_l9o3fv6.png
+[2025-11-04T21:36:58.371Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:36:58.412Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:36:59.224Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_building-production-apps-with-nextjs_1762292215406_mmaiq14.png
+[2025-11-04T21:36:59.227Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:36:59.415Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:37:01.813Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_creating-a-contact-form-using-nextjs-and-supabase_1762292217911_k76qhs8.png
+[2025-11-04T21:37:01.816Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:37:01.921Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:37:02.879Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-blog-using-markdown-and-nextjs_1762292219415_75gyhyh.png
+[2025-11-04T21:37:02.881Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:37:02.923Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:37:03.462Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_getting-started-with-serverless-functions-on-netlify_1762292218412_126kfzw.png
+[2025-11-04T21:37:03.464Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:37:03.925Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:37:05.882Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-alert-component-in-react_1762292221921_w6jjfsd.png
+[2025-11-04T21:37:05.884Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:37:05.930Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:37:06.841Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-modal-component-in-react_1762292222923_z47ek96.png
+[2025-11-04T21:37:06.844Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:37:06.933Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:37:07.839Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-portfolio-site-using-alpine-and-tailwind_1762292223925_lw36h5e.png
+[2025-11-04T21:37:07.841Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:37:07.935Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:37:09.821Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-post-articles-to-hashnode-from-cms_1762292225930_kz3rcmk.png
+[2025-11-04T21:37:09.823Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:37:09.940Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:37:10.233Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker_1762292226932_fq875as.png
+[2025-11-04T21:37:10.235Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:37:10.442Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:37:11.681Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements_1762292227935_gfyesfg.png
+[2025-11-04T21:37:11.685Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:37:11.947Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:37:13.960Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-tutoring-can-boost-your-web-development-knowledge_1762292229940_f37zbw9.png
+[2025-11-04T21:37:13.962Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:37:14.389Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_intersection-observer-lazy-load_1762292230442_h6h3pzm.png
+[2025-11-04T21:37:14.392Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:37:14.454Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:37:14.454Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:37:15.512Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_javascript-zen_1762292231946_ehxs0vv.png
+[2025-11-04T21:37:15.514Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:37:15.957Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:37:18.004Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them_1762292234454_tvabxni.png
+[2025-11-04T21:37:18.006Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:37:18.463Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:37:19.092Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_react-essentials-components-props-state-guide_1762292234454_yqb4v7k.png
+[2025-11-04T21:37:19.095Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:37:19.466Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:37:19.610Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_that-one-time-i-grew-up-and-became-a-developer_1762292235957_kd2vpbb.png
+[2025-11-04T21:37:19.612Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:37:19.968Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:37:22.143Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-3-principles-of-successfully-starting-and-completing-a-web-project_1762292238462_og6my6y.png
+[2025-11-04T21:37:22.145Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:37:22.471Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:37:22.887Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-beginners-guide-to-publishing-your-first-package-on-npm_1762292239466_8m0qyse.png
+[2025-11-04T21:37:22.890Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:37:22.972Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:37:23.242Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-difference-between-call-bind-and-apply_1762292239967_bq9sssv.png
+[2025-11-04T21:37:23.243Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:37:23.473Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:37:26.089Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_understanding-how-to-work-with-the-publish-subscribe-model-in-javascript_1762292242471_mxcdsep.png
+[2025-11-04T21:37:26.091Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:37:26.383Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_using-css-variables-to-create-interactive-styling_1762292242972_k6plr5m.png
+[2025-11-04T21:37:26.386Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:37:27.835Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_why-you-should-use-codewell-for-your-next-portfolio_1762292243473_0voejd3.png
+[2025-11-04T21:37:27.837Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:37:27.983Z] [INFO] All URLs processed
+[2025-11-04T21:41:07.133Z] [INFO] Shutting down server...
+[2025-11-04T21:42:35.815Z] [INFO] Server running on http://localhost:5173
+[2025-11-04T21:43:07.023Z] [INFO] Fetching sitemap from: https://huntertrammell.dev/sitemap.xml
+[2025-11-04T21:43:08.324Z] [INFO] Parsed 30 URLs from sitemap
+[2025-11-04T21:43:08.325Z] [INFO] Added 30 URLs to queue
+[2025-11-04T21:43:08.326Z] [INFO] Initializing Puppeteer browser
+[2025-11-04T21:43:09.078Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/
+[2025-11-04T21:43:09.081Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:43:09.088Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:43:13.026Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_index_1762292589078_h6rtuj8.png
+[2025-11-04T21:43:13.029Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/
+[2025-11-04T21:43:13.099Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:43:13.379Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-brief-introduction-to-web-components_1762292589087_8ehf5cf.png
+[2025-11-04T21:43:13.381Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:43:13.600Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:43:13.830Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_6-wonderful-free-asset-resources-for-developing-your-next-web-application_1762292589081_qx3cep7.png
+[2025-11-04T21:43:13.832Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:43:14.103Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:43:17.411Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-how-to-strategically-use-custom-properties-in-css_1762292593600_vq779zp.png
+[2025-11-04T21:43:17.413Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:43:17.611Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:43:17.643Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-handling-custom-events-in-javascript_1762292593098_oluvil0.png
+[2025-11-04T21:43:17.645Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:43:18.113Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:43:18.640Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-to-understanding-the-basics-of-typescript_1762292594103_yu9ojm1.png
+[2025-11-04T21:43:18.642Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:43:19.116Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:43:21.074Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-look-at-vuejs-directives-and-how-to-use-them_1762292597610_79kkz5j.png
+[2025-11-04T21:43:21.076Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:43:21.121Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:43:21.646Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project_1762292598113_9lz17vs.png
+[2025-11-04T21:43:21.648Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:43:22.124Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:43:22.981Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_building-production-apps-with-nextjs_1762292599116_wljcpes.png
+[2025-11-04T21:43:22.983Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:43:23.127Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:43:24.759Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_creating-a-contact-form-using-nextjs-and-supabase_1762292601121_ehsyafc.png
+[2025-11-04T21:43:24.761Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:43:25.132Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:43:25.897Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_getting-started-with-serverless-functions-on-netlify_1762292602124_gdj7q99.png
+[2025-11-04T21:43:25.899Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:43:26.136Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:43:26.698Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-blog-using-markdown-and-nextjs_1762292603127_anvme88.png
+[2025-11-04T21:43:26.702Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:43:27.139Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:43:29.126Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-alert-component-in-react_1762292605132_suoo9jz.png
+[2025-11-04T21:43:29.128Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:43:29.145Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:43:30.576Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-modal-component-in-react_1762292606135_o41s366.png
+[2025-11-04T21:43:30.578Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:43:30.649Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:43:31.916Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-portfolio-site-using-alpine-and-tailwind_1762292607138_jxq6pfq.png
+[2025-11-04T21:43:31.919Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:43:32.152Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:43:33.163Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-post-articles-to-hashnode-from-cms_1762292609145_gfxcwes.png
+[2025-11-04T21:43:33.165Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:43:33.656Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:43:33.769Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker_1762292610649_3emdtcy.png
+[2025-11-04T21:43:33.771Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:43:34.158Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:43:35.889Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements_1762292612152_47r8bcc.png
+[2025-11-04T21:43:35.891Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:43:36.163Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:43:37.268Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-tutoring-can-boost-your-web-development-knowledge_1762292613656_skcr4wl.png
+[2025-11-04T21:43:37.270Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:43:37.669Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:43:37.776Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_intersection-observer-lazy-load_1762292614158_fykdzo8.png
+[2025-11-04T21:43:37.779Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:43:38.170Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:43:39.687Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_javascript-zen_1762292616163_5sitpvx.png
+[2025-11-04T21:43:39.689Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:43:40.176Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:43:41.296Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them_1762292617669_58uyykb.png
+[2025-11-04T21:43:41.298Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:43:41.683Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:43:42.766Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_react-essentials-components-props-state-guide_1762292618170_u75kp21.png
+[2025-11-04T21:43:42.768Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:43:43.188Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:43:43.743Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_that-one-time-i-grew-up-and-became-a-developer_1762292620176_odm942u.png
+[2025-11-04T21:43:43.746Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:43:44.191Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:43:45.242Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-3-principles-of-successfully-starting-and-completing-a-web-project_1762292621683_znphqk0.png
+[2025-11-04T21:43:45.244Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:43:45.696Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:43:46.472Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-beginners-guide-to-publishing-your-first-package-on-npm_1762292623188_t5aqpp7.png
+[2025-11-04T21:43:46.476Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:43:46.700Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:43:47.313Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-difference-between-call-bind-and-apply_1762292624191_hqbvq3q.png
+[2025-11-04T21:43:47.315Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:43:47.705Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:43:49.293Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_understanding-how-to-work-with-the-publish-subscribe-model-in-javascript_1762292625696_lfm84kw.png
+[2025-11-04T21:43:49.295Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:43:51.076Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_using-css-variables-to-create-interactive-styling_1762292626699_1d3cy57.png
+[2025-11-04T21:43:51.078Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:43:51.317Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_why-you-should-use-codewell-for-your-next-portfolio_1762292627704_cdfsv5q.png
+[2025-11-04T21:43:51.319Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:43:51.716Z] [INFO] All URLs processed
+[2025-11-04T21:44:23.348Z] [INFO] Shutting down server...
+[2025-11-04T21:45:38.855Z] [INFO] Server running on http://localhost:5173
+[2025-11-04T21:45:43.033Z] [INFO] Fetching sitemap from: https://huntertrammell.dev/sitemap.xml
+[2025-11-04T21:45:44.044Z] [INFO] Parsed 30 URLs from sitemap
+[2025-11-04T21:45:44.045Z] [INFO] Added 30 URLs to queue
+[2025-11-04T21:45:44.045Z] [INFO] Initializing Puppeteer browser
+[2025-11-04T21:45:44.276Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/
+[2025-11-04T21:45:44.280Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:45:44.280Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:45:47.943Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_6-wonderful-free-asset-resources-for-developing-your-next-web-application_1762292744280_67cw154.png
+[2025-11-04T21:45:47.945Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:45:48.230Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-brief-introduction-to-web-components_1762292744280_by4r919.png
+[2025-11-04T21:45:48.232Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:45:48.292Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:45:48.292Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:45:48.370Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_index_1762292744276_wygl4pk.png
+[2025-11-04T21:45:48.373Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/
+[2025-11-04T21:45:48.793Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:45:52.060Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-how-to-strategically-use-custom-properties-in-css_1762292748292_1icol87.png
+[2025-11-04T21:45:52.062Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:45:52.300Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:45:52.747Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-handling-custom-events-in-javascript_1762292748292_x09p8p1.png
+[2025-11-04T21:45:52.750Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:45:52.801Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:45:53.302Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-to-understanding-the-basics-of-typescript_1762292748793_gi5sth9.png
+[2025-11-04T21:45:53.303Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:45:53.803Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:45:55.737Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-look-at-vuejs-directives-and-how-to-use-them_1762292752300_93o3m2r.png
+[2025-11-04T21:45:55.739Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:45:55.808Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:45:56.329Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project_1762292752801_lmx7i9v.png
+[2025-11-04T21:45:56.331Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:45:56.812Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:45:57.599Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_building-production-apps-with-nextjs_1762292753803_9s36kvy.png
+[2025-11-04T21:45:57.602Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:45:57.816Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:45:59.479Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_creating-a-contact-form-using-nextjs-and-supabase_1762292755808_6fv7pr7.png
+[2025-11-04T21:45:59.481Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:45:59.822Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:46:00.542Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_getting-started-with-serverless-functions-on-netlify_1762292756812_tpyzjyk.png
+[2025-11-04T21:46:00.543Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:46:00.828Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:46:01.245Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-blog-using-markdown-and-nextjs_1762292757816_xfngts2.png
+[2025-11-04T21:46:01.247Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:46:01.329Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:46:03.665Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-alert-component-in-react_1762292759822_laau98q.png
+[2025-11-04T21:46:03.667Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:46:03.835Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:46:05.123Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-modal-component-in-react_1762292760828_4m0v5ht.png
+[2025-11-04T21:46:05.124Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:46:05.339Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:46:06.315Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-portfolio-site-using-alpine-and-tailwind_1762292761328_74fgj8d.png
+[2025-11-04T21:46:06.317Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:46:06.341Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:46:07.718Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-post-articles-to-hashnode-from-cms_1762292763835_j7lkg8m.png
+[2025-11-04T21:46:07.721Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:46:07.843Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:46:08.726Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker_1762292765339_1u2obqb.png
+[2025-11-04T21:46:08.730Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:46:08.845Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:46:10.216Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements_1762292766341_xzzam8p.png
+[2025-11-04T21:46:10.218Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:46:10.352Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:46:11.353Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-tutoring-can-boost-your-web-development-knowledge_1762292767843_2zitcns.png
+[2025-11-04T21:46:11.355Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:46:11.365Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:46:12.600Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_intersection-observer-lazy-load_1762292768845_35upt8c.png
+[2025-11-04T21:46:12.602Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:46:12.872Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:46:13.850Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_javascript-zen_1762292770352_worwwr1.png
+[2025-11-04T21:46:13.852Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:46:13.875Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:46:14.984Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them_1762292771365_81zygdw.png
+[2025-11-04T21:46:14.986Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:46:15.379Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:46:17.510Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_react-essentials-components-props-state-guide_1762292772871_nbdetql.png
+[2025-11-04T21:46:17.512Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:46:17.843Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_that-one-time-i-grew-up-and-became-a-developer_1762292773875_8lokzy3.png
+[2025-11-04T21:46:17.846Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:46:17.886Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:46:17.886Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:46:19.041Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-3-principles-of-successfully-starting-and-completing-a-web-project_1762292775378_v9cmeu6.png
+[2025-11-04T21:46:19.043Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:46:19.390Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:46:21.009Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-difference-between-call-bind-and-apply_1762292777886_5r4mdlf.png
+[2025-11-04T21:46:21.012Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:46:21.395Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:46:21.411Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-beginners-guide-to-publishing-your-first-package-on-npm_1762292777886_z0odzla.png
+[2025-11-04T21:46:21.413Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:46:21.896Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:46:23.011Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_understanding-how-to-work-with-the-publish-subscribe-model-in-javascript_1762292779390_341txzh.png
+[2025-11-04T21:46:23.013Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:46:25.414Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_why-you-should-use-codewell-for-your-next-portfolio_1762292781896_c31e9i4.png
+[2025-11-04T21:46:25.417Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:46:25.748Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_using-css-variables-to-create-interactive-styling_1762292781395_iqkbkro.png
+[2025-11-04T21:46:25.750Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:46:25.873Z] [INFO] Shutting down server...
+[2025-11-04T21:47:24.603Z] [INFO] Server running on http://localhost:5173
+[2025-11-04T21:47:30.829Z] [INFO] Fetching sitemap from: https://huntertrammell.dev/sitemap.xml
+[2025-11-04T21:47:31.046Z] [INFO] Parsed 30 URLs from sitemap
+[2025-11-04T21:47:31.047Z] [INFO] Added 30 URLs to queue
+[2025-11-04T21:47:31.047Z] [INFO] Initializing Puppeteer browser
+[2025-11-04T21:47:31.552Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/
+[2025-11-04T21:47:31.553Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:47:31.554Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:47:35.220Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_6-wonderful-free-asset-resources-for-developing-your-next-web-application_1762292851553_a5ixzc2.png
+[2025-11-04T21:47:35.223Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/6-wonderful-free-asset-resources-for-developing-your-next-web-application
+[2025-11-04T21:47:35.515Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-brief-introduction-to-web-components_1762292851554_n0f75uy.png
+[2025-11-04T21:47:35.518Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-brief-introduction-to-web-components
+[2025-11-04T21:47:35.568Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:47:35.569Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:47:35.856Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_index_1762292851551_s2n8rln.png
+[2025-11-04T21:47:35.858Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/
+[2025-11-04T21:47:36.070Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:47:39.153Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-how-to-strategically-use-custom-properties-in-css_1762292855569_dcqpg92.png
+[2025-11-04T21:47:39.156Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-how-to-strategically-use-custom-properties-in-css
+[2025-11-04T21:47:39.578Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:47:39.907Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-on-handling-custom-events-in-javascript_1762292855568_bmqitny.png
+[2025-11-04T21:47:39.909Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-on-handling-custom-events-in-javascript
+[2025-11-04T21:47:40.081Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:47:40.596Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-guide-to-understanding-the-basics-of-typescript_1762292856070_i7ijw8v.png
+[2025-11-04T21:47:40.598Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-guide-to-understanding-the-basics-of-typescript
+[2025-11-04T21:47:41.085Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:47:43.042Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_a-quick-look-at-vuejs-directives-and-how-to-use-them_1762292859578_ftfchfb.png
+[2025-11-04T21:47:43.044Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/a-quick-look-at-vuejs-directives-and-how-to-use-them
+[2025-11-04T21:47:43.090Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:47:43.595Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project_1762292860081_60yb3j6.png
+[2025-11-04T21:47:43.597Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/alpinejs-the-lightweight-and-powerful-framework-you-should-use-for-your-next-project
+[2025-11-04T21:47:44.093Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:47:44.892Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_building-production-apps-with-nextjs_1762292861084_nmx8lwg.png
+[2025-11-04T21:47:44.896Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/building-production-apps-with-nextjs
+[2025-11-04T21:47:45.097Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:47:46.706Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_creating-a-contact-form-using-nextjs-and-supabase_1762292863090_1l2j4mv.png
+[2025-11-04T21:47:46.708Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/creating-a-contact-form-using-nextjs-and-supabase
+[2025-11-04T21:47:47.104Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:47:48.588Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-blog-using-markdown-and-nextjs_1762292865097_m5g61xc.png
+[2025-11-04T21:47:48.590Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-blog-using-markdown-and-nextjs
+[2025-11-04T21:47:48.607Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:47:49.124Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_getting-started-with-serverless-functions-on-netlify_1762292864093_eun4uzj.png
+[2025-11-04T21:47:49.126Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/getting-started-with-serverless-functions-on-netlify
+[2025-11-04T21:47:49.609Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:47:51.031Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-alert-component-in-react_1762292867103_xl04nly.png
+[2025-11-04T21:47:51.033Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-alert-component-in-react
+[2025-11-04T21:47:51.113Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:47:52.465Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-dynamic-modal-component-in-react_1762292868607_adjcnmg.png
+[2025-11-04T21:47:52.467Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-dynamic-modal-component-in-react
+[2025-11-04T21:47:52.617Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:47:53.717Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-create-a-portfolio-site-using-alpine-and-tailwind_1762292869609_i17s7i0.png
+[2025-11-04T21:47:53.721Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-create-a-portfolio-site-using-alpine-and-tailwind
+[2025-11-04T21:47:54.121Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:47:55.010Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-post-articles-to-hashnode-from-cms_1762292871112_9iieyt6.png
+[2025-11-04T21:47:55.012Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-post-articles-to-hashnode-from-cms
+[2025-11-04T21:47:55.125Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:47:56.128Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker_1762292872617_uzbdppj.png
+[2025-11-04T21:47:56.132Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-create-a-mock-api-in-react-using-mock-service-worker
+[2025-11-04T21:47:56.628Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:47:57.854Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements_1762292874121_lx6ps2a.png
+[2025-11-04T21:47:57.856Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-to-quickly-utilize-template-and-slot-tags-within-your-custom-elements
+[2025-11-04T21:47:58.133Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:47:58.624Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_how-tutoring-can-boost-your-web-development-knowledge_1762292875125_abzt608.png
+[2025-11-04T21:47:58.626Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/how-tutoring-can-boost-your-web-development-knowledge
+[2025-11-04T21:47:58.635Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:48:00.360Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_intersection-observer-lazy-load_1762292876628_ee48adm.png
+[2025-11-04T21:48:00.362Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/intersection-observer-lazy-load
+[2025-11-04T21:48:00.642Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:48:01.693Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_javascript-zen_1762292878133_w0fzipx.png
+[2025-11-04T21:48:01.695Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/javascript-zen
+[2025-11-04T21:48:02.146Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:48:02.155Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them_1762292878635_5idqb1s.png
+[2025-11-04T21:48:02.157Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/nodelist-vs-htmlcollection-whats-the-difference-and-how-to-use-them
+[2025-11-04T21:48:02.648Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:48:05.263Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_react-essentials-components-props-state-guide_1762292880641_5rdzxig.png
+[2025-11-04T21:48:05.265Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/react-essentials-components-props-state-guide
+[2025-11-04T21:48:05.655Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:48:05.680Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_that-one-time-i-grew-up-and-became-a-developer_1762292882146_pp9wn8q.png
+[2025-11-04T21:48:05.681Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/that-one-time-i-grew-up-and-became-a-developer
+[2025-11-04T21:48:06.157Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:48:06.219Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-3-principles-of-successfully-starting-and-completing-a-web-project_1762292882648_obesgal.png
+[2025-11-04T21:48:06.221Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-3-principles-of-successfully-starting-and-completing-a-web-project
+[2025-11-04T21:48:06.658Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:48:08.903Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-beginners-guide-to-publishing-your-first-package-on-npm_1762292885655_k3v2enw.png
+[2025-11-04T21:48:08.905Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-beginners-guide-to-publishing-your-first-package-on-npm
+[2025-11-04T21:48:09.162Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:48:09.355Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_the-difference-between-call-bind-and-apply_1762292886156_bnwmvl9.png
+[2025-11-04T21:48:09.357Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/the-difference-between-call-bind-and-apply
+[2025-11-04T21:48:09.663Z] [DEBUG] Capturing screenshot: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:48:10.251Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_understanding-how-to-work-with-the-publish-subscribe-model-in-javascript_1762292886658_4gbhhui.png
+[2025-11-04T21:48:10.254Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/understanding-how-to-work-with-the-publish-subscribe-model-in-javascript
+[2025-11-04T21:48:13.737Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_using-css-variables-to-create-interactive-styling_1762292889162_mxb2d0f.png
+[2025-11-04T21:48:13.739Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/using-css-variables-to-create-interactive-styling
+[2025-11-04T21:48:13.980Z] [DEBUG] Screenshot saved: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots/huntertrammell_dev_blog_why-you-should-use-codewell-for-your-next-portfolio_1762292889663_uj4sihj.png
+[2025-11-04T21:48:13.981Z] [DEBUG] Added URL to CSV: https://huntertrammell.dev/blog/why-you-should-use-codewell-for-your-next-portfolio
+[2025-11-04T21:48:14.175Z] [INFO] All URLs processed
+[2025-11-04T21:48:25.699Z] [INFO] ZIP file created: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots-mhl3nujqwlrp47821ql.zip
+[2025-11-04T21:48:27.405Z] [DEBUG] Cleaned up ZIP file: /Users/htrammell/Projects/screenshot-crawler/server/tmp/screenshots-mhl3nujqwlrp47821ql.zip
+[2025-11-04T21:48:27.406Z] [INFO] ZIP downloaded and cleaned up for job mhl3nujqwlrp47821ql
+[2025-11-04T21:53:48.460Z] [INFO] Shutting down server...

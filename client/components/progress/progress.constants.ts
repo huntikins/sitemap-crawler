@@ -1,0 +1,7 @@
+export const PROGRESS_CHANNEL = 'PROGRESS';
+
+export const PROGRESS_TOPICS = {
+  UPDATE: 'UPDATE',
+  COMPLETED: 'COMPLETED',
+  FAILED: 'FAILED',
+} as const;

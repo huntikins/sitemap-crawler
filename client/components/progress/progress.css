@@ -1,0 +1,67 @@
+/* Progress component styles */
+
+/* Image Preview Modal */
+.dialog-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Hide dialog by default (when aria-hidden="true") */
+.dialog-container[aria-hidden="true"] {
+  display: none !important;
+}
+
+/* Show dialog when aria-hidden is false or removed */
+.dialog-container[aria-hidden="false"],
+.dialog-container:not([aria-hidden]) {
+  display: flex !important;
+}
+
+.dialog-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.75);
+  cursor: pointer;
+}
+
+.dialog-content {
+  position: relative;
+  background-color: white;
+  border-radius: 8px;
+  padding: 2rem;
+  max-width: 90vw;
+  max-height: 90vh;
+  overflow: auto;
+  z-index: 1001;
+}
+
+.dialog-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  line-height: 1;
+  color: #666;
+  cursor: pointer;
+  padding: 0.5rem;
+  z-index: 1002;
+}
+
+.dialog-close:hover {
+  color: #000;
+}
+
+.dialog-body {
+  position: relative;
+}

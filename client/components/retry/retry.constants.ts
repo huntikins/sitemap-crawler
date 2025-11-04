@@ -1,0 +1,7 @@
+export const RETRY_CHANNEL = 'RETRY';
+
+export const RETRY_TOPICS = {
+  RETRY_URL: 'RETRY_URL',
+  RETRY_ALL: 'RETRY_ALL',
+  FAILED_URLS_LOADED: 'FAILED_URLS_LOADED',
+} as const;

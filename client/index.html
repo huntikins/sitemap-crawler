@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Screenshot Crawler</title>
+    <link rel="stylesheet" href="/index.css" />
+  </head>
+  <body class="min-h-screen bg-gray-50">
+    <header class="bg-white shadow-sm">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <h1 class="text-2xl font-bold text-gray-900">Screenshot Crawler</h1>
+      </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <!-- Form Component -->
+      <section x-data="form" class="bg-white rounded-lg shadow p-6 mb-8">
+        <h2 class="text-xl font-semibold mb-4">Input URLs</h2>
+        
+        <div class="space-y-4">
+          <!-- Sitemap URL Input -->
+          <div>
+            <label for="url-input" class="block text-sm font-medium text-gray-700 mb-2">
+              Sitemap URL
+            </label>
+            <input
+              type="text"
+              id="url-input"
+              x-model="urlInput"
+              @input="validateUrl()"
+              placeholder="https://example.com/sitemap.xml"
+              class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
+              :class="{ 'border-red-300': !isValidUrl && urlInput.trim().length > 0 }"
+            />
+            <p class="mt-1 text-sm text-gray-500">
+              Enter a sitemap.xml URL
+            </p>
+          </div>
+
+          <!-- Advanced Options (Collapsible) -->
+          <div class="border-t pt-4">
+            <button
+              type="button"
+              @click="toggleAdvanced()"
+              class="flex items-center justify-between w-full text-left text-sm font-medium text-gray-700 hover:text-gray-900"
+            >
+              <span>Advanced Options</span>
+              <svg
+                class="w-5 h-5 transition-transform"
+                :class="{ 'rotate-180': showAdvanced }"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+
+            <div x-show="showAdvanced" x-collapse class="mt-4 grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div>
+                <label for="wait-time" class="block text-sm font-medium text-gray-700 mb-2">
+                  Wait Time (ms)
+                </label>
+                <input
+                  type="number"
+                  id="wait-time"
+                  x-model.number="waitTime"
+                  min="0"
+                  class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
+                />
+              </div>
+
+              <div>
+                <label for="viewport-width" class="block text-sm font-medium text-gray-700 mb-2">
+                  Viewport Width
+                </label>
+                <input
+                  type="number"
+                  id="viewport-width"
+                  x-model.number="viewportWidth"
+                  min="320"
+                  class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
+                />
+              </div>
+
+              <div>
+                <label for="viewport-height" class="block text-sm font-medium text-gray-700 mb-2">
+                  Viewport Height
+                </label>
+                <input
+                  type="number"
+                  id="viewport-height"
+                  x-model.number="viewportHeight"
+                  min="240"
+                  class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
+                />
+              </div>
+
+              <div>
+                <label for="image-format" class="block text-sm font-medium text-gray-700 mb-2">
+                  Image Format
+                </label>
+                <select
+                  id="image-format"
+                  x-model="imageFormat"
+                  class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
+                >
+                  <option value="png">PNG</option>
+                  <option value="jpg">JPG</option>
+                </select>
+              </div>
+
+              <div>
+                <label for="timeout" class="block text-sm font-medium text-gray-700 mb-2">
+                  Timeout (ms)
+                </label>
+                <input
+                  type="number"
+                  id="timeout"
+                  x-model.number="timeout"
+                  min="1000"
+                  class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
+                />
+              </div>
+
+              <div>
+                <label for="concurrency" class="block text-sm font-medium text-gray-700 mb-2">
+                  Concurrency
+                </label>
+                <input
+                  type="number"
+                  id="concurrency"
+                  x-model.number="concurrency"
+                  min="1"
+                  max="10"
+                  class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
+                />
+              </div>
+            </div>
+          </div>
+
+          <!-- Action Buttons -->
+          <div class="pt-4 space-y-2">
+            <button
+              @click="handleSubmit"
+              :disabled="isSubmitting || !isValidUrl"
+              class="w-full px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-blue-600"
+            >
+              <span x-show="!isSubmitting">Start Process</span>
+              <span x-show="isSubmitting">Processing...</span>
+            </button>
+            <!-- Service Status Indicator -->
+            <div x-show="serviceStatus !== 'idle'" class="text-sm">
+              <div x-show="serviceStatus === 'starting'" class="text-blue-600">
+                Service starting...
+              </div>
+              <div x-show="serviceStatus === 'ready'" class="text-green-600">
+                Service ready
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Progress Component -->
+      <section x-data="progress" class="bg-white rounded-lg shadow p-6 mb-8">
+        <h2 class="text-xl font-semibold mb-4">Progress</h2>
+        
+        <div x-show="hasJob" class="space-y-4">
+          <!-- Progress Bar -->
+          <div>
+            <div class="flex justify-between text-sm text-gray-600 mb-2">
+              <span>Overall Progress</span>
+              <span x-text="progressPercent + '%'"></span>
+            </div>
+            <div class="w-full bg-gray-200 rounded-full h-2">
+              <div
+                class="bg-blue-600 h-2 rounded-full transition-all duration-300"
+                :style="`width: ${progressPercent}%`"
+              ></div>
+            </div>
+          </div>
+
+          <!-- Status Summary -->
+          <div class="grid grid-cols-2 md:grid-cols-5 gap-4 text-center">
+            <div>
+              <div class="text-2xl font-bold" x-text="progress.total"></div>
+              <div class="text-sm text-gray-600">Total</div>
+            </div>
+            <div>
+              <div class="text-2xl font-bold text-green-600" x-text="progress.completed"></div>
+              <div class="text-sm text-gray-600">Completed</div>
+            </div>
+            <div>
+              <div class="text-2xl font-bold text-red-600" x-text="progress.failed"></div>
+              <div class="text-sm text-gray-600">Failed</div>
+            </div>
+            <div>
+              <div class="text-2xl font-bold text-yellow-600" x-text="progress.pending"></div>
+              <div class="text-sm text-gray-600">Pending</div>
+            </div>
+            <div>
+              <div class="text-2xl font-bold text-blue-600" x-text="progress.processing"></div>
+              <div class="text-sm text-gray-600">Processing</div>
+            </div>
+          </div>
+
+          <!-- Processed URLs Table -->
+          <div x-show="getProcessedUrls().length > 0" class="pt-4">
+            <h3 class="text-lg font-semibold mb-3">Processed URLs</h3>
+            <div class="overflow-x-auto">
+              <table class="min-w-full divide-y divide-gray-200">
+                <thead class="bg-gray-50">
+                  <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      URL
+                    </th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      Status
+                    </th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      Preview
+                    </th>
+                  </tr>
+                </thead>
+                <tbody class="bg-white divide-y divide-gray-200">
+                  <template x-for="processedUrl in getProcessedUrls()" :key="processedUrl.url">
+                    <tr>
+                      <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900" x-text="processedUrl.url"></td>
+                      <td class="px-6 py-4 whitespace-nowrap">
+                        <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
+                          Completed
+                        </span>
+                      </td>
+                      <td class="px-6 py-4 whitespace-nowrap text-sm">
+                        <button
+                          type="button"
+                          @click.stop="console.log('Button clicked', processedUrl); openImageModal(processedUrl.url, processedUrl.screenshotPath || '')"
+                          class="px-3 py-1 bg-blue-600 text-white rounded-md hover:bg-blue-700 text-sm"
+                        >
+                          Preview
+                        </button>
+                      </td>
+                    </tr>
+                  </template>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Download Button (when complete) -->
+          <div class="pt-4">
+            <a
+              :href="canDownload && jobId ? window.app.api?.getDownloadUrl(jobId) : '#'"
+              :class="canDownload ? 'cursor-pointer' : 'cursor-not-allowed'"
+              @click.prevent="canDownload && jobId ? window.location.href = window.app.api?.getDownloadUrl(jobId) : null"
+              class="inline-block px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 disabled:opacity-50 disabled:cursor-not-allowed"
+              :class="{ 'opacity-50 cursor-not-allowed': !canDownload }"
+              download
+            >
+              Download ZIP
+            </a>
+          </div>
+        </div>
+
+        <div x-show="!hasJob" class="text-center text-gray-500 py-8">
+          No active job. Start a new job to see progress.
+        </div>
+
+        <!-- Image Preview Modal -->
+        <div id="image-dialog" data-a11y-dialog class="dialog-container" aria-labelledby="dialog-title" aria-hidden="true">
+          <div class="dialog-overlay" data-a11y-dialog-hide></div>
+          <div class="dialog-content" role="document">
+            <button
+              type="button"
+              class="dialog-close"
+              data-a11y-dialog-hide
+              aria-label="Close dialog"
+            >
+              &times;
+            </button>
+            <div class="dialog-body">
+              <h2 id="dialog-title" class="text-lg font-semibold mb-4" x-show="selectedImageUrl" x-text="selectedImageUrl"></h2>
+              <div class="flex justify-center items-center" x-show="selectedImagePath">
+                <img
+                  :src="selectedImagePath ? getScreenshotUrl(selectedImagePath) : ''"
+                  :alt="selectedImageUrl || 'Screenshot'"
+                  class="max-w-full max-h-[80vh] object-contain"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Retry Component -->
+      <section x-data="retry" class="bg-white rounded-lg shadow p-6" x-show="failedUrls.length > 0">
+        <h2 class="text-xl font-semibold mb-4">Failed URLs</h2>
+        
+        <div class="space-y-4">
+          <div class="flex justify-end mb-4">
+            <button
+              @click="retryAll()"
+              :disabled="isRetrying"
+              class="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              <span x-show="!isRetrying">Retry All</span>
+              <span x-show="isRetrying">Retrying...</span>
+            </button>
+          </div>
+
+          <div class="space-y-2">
+            <template x-for="failedUrl in failedUrls" :key="failedUrl.url">
+              <div class="border border-gray-200 rounded-md p-4">
+                <div class="flex justify-between items-start">
+                  <div class="flex-1">
+                    <div class="font-medium text-gray-900" x-text="failedUrl.url"></div>
+                    <div x-show="failedUrl.error" class="text-sm text-red-600 mt-1" x-text="failedUrl.error"></div>
+                    <div class="text-sm text-gray-500 mt-1">
+                      Retry count: <span x-text="failedUrl.retryCount"></span>
+                    </div>
+                  </div>
+                  <button
+                    @click="retryUrl(failedUrl.url)"
+                    :disabled="isRetrying"
+                    class="px-3 py-1 bg-yellow-600 text-white rounded-md hover:bg-yellow-700 disabled:opacity-50 disabled:cursor-not-allowed text-sm"
+                  >
+                    Retry
+                  </button>
+                </div>
+              </div>
+            </template>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="bg-white border-t mt-12">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <p class="text-center text-sm text-gray-500">Copyright 2025 Screenshot Crawler</p>
+      </div>
+    </footer>
+
+    <script type="module" src="/index.ts"></script>
+  </body>
+</html>

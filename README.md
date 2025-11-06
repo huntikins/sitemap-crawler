@@ -3,7 +3,8 @@
 
 ## Usage
 
-1. Install [pnpm](https://pnpm.io/installation#using-homebrew) `brew install pnpm`
-2. Run `pnpm install && pnpm run dev` in the project root
-3. Navigate to localhost:8080
-4. Provide a url for a sitemap.xml file (ex: https://huntertrammell.dev/sitemap.xml)
+1. Install [pnpm](https://pnpm.io/installation#using-homebrew) if you don't already have it
+   ```brew install pnpm```
+3. Run `pnpm install && pnpm run dev` in the project root
+4. Navigate to localhost:8080
+5. Provide a url for a sitemap.xml file (ex: https://huntertrammell.dev/sitemap.xml)
